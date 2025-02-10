@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839974367958",
+    "project_id": "investme-fe4e3",
+    "storage_bucket": "investme-fe4e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839974367958:android:54c650815e4144c34ccf77",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXZZfGgYx4Geuu8GPBReg7_KDAYhVVkOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
